@@ -1,5 +1,4 @@
 @import url("https://nyri4.github.io/donators/donators.css");
-@import url('https://fonts.googleapis.com/css2?family=DotGothic16');
 :root .container-3wLKDe {
   background: var(--background-primary);
 }
@@ -1428,9 +1427,6 @@
 :root button,
 :root input,
 :root select,
-:root textarea {
-  font-family: "DotGothic16" !important;
-}
 :root .bg-1QIAus {
   background: var(--background-tertiary-alt);
   background-size: cover;
